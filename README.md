@@ -7,7 +7,9 @@ A fun and addictive game that can be played both 1 or 2 players
 
 **Method 1**
 
-Run this repl.it : {Coming Soon}
+Run this repl.it : https://replit.com/@DrDeadlyDuck/Croaky-Catcher
+
+[ Running on replit will cause lag ]
 
 **Method 2.**
 
